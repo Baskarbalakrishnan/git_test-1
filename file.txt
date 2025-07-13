@@ -1,4 +1,4 @@
 test number 1
 test number 2 with second commit
 test number 3 with third commit
-
+test numer 4 for merge commit
